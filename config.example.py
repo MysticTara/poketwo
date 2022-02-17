@@ -1,5 +1,5 @@
 # Database Configuration
-DATABASE_URI = None
+DATABASE_URI = True
 DATABASE_NAME = None
 
 # Bot Configuration
